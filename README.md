@@ -1,3 +1,8 @@
+# Spoiler alert
+
+These are my solutions for the `rustlings` exercises. Spoilers ahead :)
+
+
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
